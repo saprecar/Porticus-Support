@@ -1,0 +1,1 @@
+Disclaimer: This application is an independent estimation tool and does not represent, endorse, or have any affiliation with any government entity or official tax/pension authority. Calculations provided are for informational and estimation purposes only and should not be considered official financial or tax advice
