@@ -269,7 +269,8 @@ If you encounter a **bug, malfunction, error, or grievance**, you must provide *
 - Screenshots or logs if available
 - Your contact information for follow-up
 
-**Late notice constitutes a waiver** of your right to seek remedies for that specific issue. Contact: support@porticus.app
+**Late notice constitutes a waiver** of your right to seek remedies for that specific issue. 
+Contact: getspacecar@gmail.com
 
 ---
 
@@ -469,3 +470,6 @@ As mobile hardware and software evolve:
 ### Third-Party Redirection
 
 The Application may contain links to external websites or resources, including:
+
+## Contact Details:
+getspacecar@gmail.com
