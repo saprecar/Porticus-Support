@@ -57,6 +57,9 @@ We reserve the right to modify this policy at any time. Any changes will be upda
 
 Disclaimer: This application is an independent estimation tool and does not represent, endorse, or have any affiliation with any government entity or official tax/pension authority. Calculations provided are for informational and estimation purposes only and should not be considered official financial or tax advice
 
+[PRIVACY_POLICY.md](https://github.com/saprecar/Porticus-Support/blob/main/PRIVACY_POLICY.md)
+[DISCLAIMER.md](https://github.com/saprecar/Porticus-Support/blob/main/DISCLAIMER.md)
+
 ALL RIGHTS RESERVED.
 
 Contact Details:
