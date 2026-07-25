@@ -1,4 +1,4 @@
-Last Updated: 23 July 2026 | Version 2.1
+Last Updated: 25 July 2026 | Version 2.1
 
 This Privacy Policy explains how the Application handles information. Use of the Application constitutes consent.
 
@@ -59,3 +59,5 @@ Disclaimer: This application is an independent estimation tool and does not repr
 
 ALL RIGHTS RESERVED.
 
+Contact Details:
+getspacecar@gmail.com
