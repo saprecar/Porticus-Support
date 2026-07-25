@@ -96,6 +96,7 @@ The Developer adheres to standard data privacy practices:
 * **Local Data Processing:** All personal data entered by you (calculations, portfolio details, preferences) is processed and stored **locally on your device**.
 * **No Remote Personal Databases:** The Developer does not maintain, store, or process your personal data on remote servers or central databases.
 * **User Control:** You retain complete control over your local data and may delete it at any time by clearing the Application storage or uninstalling the Application.
+* **Privacy Policy:** https://github.com/saprecar/Porticus-Support/blob/main/PRIVACY_POLICY.md
 
 ---
 
