@@ -1,7 +1,3 @@
-Here is the complete, detailed User Agreement with all specific act names removed, while fully retaining the long legal structure, India-only scope, local storage principles, and third-party data deletion limitations.
-
----
-
 # User Agreement (Terms of Service)
 
 **LEGAL DISCLAIMER, USER AGREEMENT, End User License Agreement (EULA) & Terms of Service**
@@ -202,8 +198,19 @@ Subject to arbitration, the competent courts located in **Narmadapuram, Madhya P
 The Developer reserves the absolute right to discontinue the Application, remove it from app stores, stop providing updates, or shut down backend services at any time without notice or refund obligations.
 
 ---
+## 17. Disclaimer and Other Policies****
+This User Agreement incorporates by reference our additional policies and legal disclosures. Please read the following documents carefully, as they form an integral part of your agreement with the Developer:
 
-## 17. Contact & Grievance Redressal
+* **Privacy Policy:** [PRIVACY_POLICY.md](https://github.com/saprecar/Porticus-Support/blob/main/PRIVACY_POLICY.md)
+* **Disclaimer:** [DISCLAIMER.md](https://github.com/saprecar/Porticus-Support/blob/main/DISCLAIMER.md)
+
+By downloading, installing, or using the Application, you acknowledge that you have read, understood, and agreed to be bound by this Agreement as well as the terms set forth in the Privacy Policy and Disclaimer linked above.
+
+
+
+---
+
+## 18. Contact & Grievance Redressal
 
 If you have any questions, bug reports, or grievances regarding the Application, you may contact the Developer:
 
