@@ -1,5 +1,8 @@
-Official Non-Affiliation & Entity Disclaimer
-IMPORTANT DISCLAIMER & NOTICE OF NON-AFFILIATION
+# Official Non-Affiliation & Entity Disclaimer
+
+**IMPORTANT DISCLAIMER & NOTICE OF NON-AFFILIATION**
+
+*Last Updated: 25 July 2026 | Version 1*
 
 1. Independent Operation & Non-Affiliation
 
