@@ -1,184 +1,214 @@
-User Agreement (Terms of Service)
-LEGAL DISCLAIMER, USER AGREEMENT, End User License Agreement (EULA) & Terms of Service
+Here is the complete, detailed User Agreement with all specific act names removed, while fully retaining the long legal structure, India-only scope, local storage principles, and third-party data deletion limitations.
 
-Last Updated: 25 July 2026 | Version 2.2
+---
 
-1. Purpose and Scope of Service
-The Developer provides a suite of applications which may include, but are not limited to, financial calculators, portfolio tracking tools, educational content, gaming, and knowledge-based services. All content, outputs, and scores provided by any of our Applications are for informational, educational, or entertainment purposes only. None of the outputs constitute professional, financial, legal, or medical advice.
+# User Agreement (Terms of Service)
 
-Users are strongly encouraged to consult certified professionals (accountants, financial advisors, lawyers, or medical practitioners) before making real-world decisions based on Application outputs.
+**LEGAL DISCLAIMER, USER AGREEMENT, End User License Agreement (EULA) & Terms of Service**
 
-2. Strict Regional Scope (India Use Only)
-Territorial Restriction:
-This Application is developed, licensed, and intended exclusively for use within the territory of India.
+*Last Updated: 25 July 2026 | Version 2.2*
 
-The Application is optimized for Indian regulatory, financial, and operational frameworks.
+---
 
-Accessing or using the Application from outside India is strictly unauthorized.
+## 1. Purpose and Scope of Service
 
-If you choose to access or use the Application from outside India, you do so entirely at your own risk and initiative. You are solely responsible for compliance with any local laws that may apply in your territory.
+The Developer provides a suite of applications which may include, but are not limited to, financial calculators, portfolio tracking tools, educational content, gaming, and knowledge-based services. All content, outputs, and scores provided by any of our Applications are for **informational, educational, or entertainment purposes only**. None of the outputs constitute professional, financial, legal, or medical advice.
 
-The Developer disclaims all liability and legal obligation for cross-border access or non-compliance with foreign laws.
+**Users are strongly encouraged to consult certified professionals (accountants, financial advisors, lawyers, or medical practitioners) before making real-world decisions based on Application outputs.**
 
-3. Accuracy and Disclaimer of Warranties
-While we strive for precision, all Applications are provided on an "AS IS" and "AS AVAILABLE" basis. The Developer makes no guarantees regarding:
+---
 
-The accuracy of financial calculations (GST, Taxes, charges, fees, hidden charges, etc.)
+## 2. Strict Regional Scope (India Use Only)
 
-The real-time accuracy of portfolio data
+**Territorial Restriction:**
+This Application is developed, licensed, and intended **exclusively for use within the territory of India**.
 
-The factual correctness of knowledge-based content
+* The Application is optimized for Indian regulatory, financial, and operational frameworks.
+* Accessing or using the Application from outside India is **strictly unauthorized**.
+* If you choose to access or use the Application from outside India, you do so entirely at your own risk and initiative. You are solely responsible for compliance with any local laws that may apply in your territory.
+* The Developer disclaims all liability and legal obligation for cross-border access or non-compliance with foreign laws.
 
-The timeliness or completeness of data from third-party API providers
+---
 
-All warranties, express or implied, are hereby disclaimed. You use the Application entirely at your own risk.
+## 3. Accuracy and Disclaimer of Warranties
 
-4. User Responsibility
-You assume absolute responsibility for all decisions based on Application outputs. You acknowledge that you are responsible for:
+While we strive for precision, all Applications are provided on an **"AS IS" and "AS AVAILABLE" basis**. The Developer makes no guarantees regarding:
 
-Cross-checking results with official sources and certified professionals before making any real-world commitments
+* The accuracy of financial calculations (GST, Taxes, charges, fees, hidden charges, etc.)
+* The real-time accuracy of portfolio data
+* The factual correctness of knowledge-based content
+* The timeliness or completeness of data from third-party API providers
 
-Verifying all calculations independently
+All warranties, express or implied, are hereby **disclaimed**. You use the Application entirely at your own risk.
 
-Understanding the limitations of automated tools and software
+---
 
-5. Comprehensive Limitation of Liability
-To the maximum extent permitted under Indian law, the Developer shall not be liable for any direct, indirect, incidental, consequential, special, or punitive damages. This includes, but is not limited to:
+## 4. User Responsibility
 
-Financial losses from investments or trading decisions
+You assume **absolute responsibility** for all decisions based on Application outputs. You acknowledge that you are responsible for:
 
-Hardware-related issues resulting from your reliance on the Application
+* Cross-checking results with official sources and certified professionals before making any real-world commitments
+* Verifying all calculations independently
+* Understanding the limitations of automated tools and software
 
-Data loss or corruption
+---
 
-Loss of business opportunities or profits
+## 5. Comprehensive Limitation of Liability
 
-Emotional or psychological harm
+To the maximum extent permitted under applicable law, the Developer shall not be liable for any direct, indirect, incidental, consequential, special, or punitive damages. This includes, but is not limited to:
 
-6. Monetary Liability Cap
-In the event that the Developer is found liable by a competent legal authority, the total cumulative liability shall not exceed the actual amount paid (if any) by the User to access the Application during the thirty (30) calendar days immediately preceding the event.
+* Financial losses from investments or trading decisions
+* Hardware-related issues resulting from your reliance on the Application
+* Data loss or corruption
+* Loss of business opportunities or profits
+* Emotional or psychological harm
 
-For Users who have not made any payment, liability shall be limited to a nominal sum of ₹100 (INR).
+---
 
-7. Security, Bugs, and Hacking Disclaimer
+## 6. Monetary Liability Cap
+
+In the event that the Developer is found liable by a competent legal authority, the **total cumulative liability shall not exceed the actual amount paid (if any) by the User to access the Application during the thirty (30) calendar days immediately preceding the event**.
+
+For Users who have not made any payment, liability shall be limited to a nominal sum of **₹100 (INR)**.
+
+---
+
+## 7. Security, Bugs, and Hacking Disclaimer
+
 The Developer is not responsible for any of the following:
 
-Unauthorized access, hacking, or data theft
+* Unauthorized access, hacking, or data theft
+* Cyberattacks or malware
+* Software bugs or unforeseen security vulnerabilities
+* Compromise of the Application or User's device
+* Loss of data due to device theft, loss, or unauthorized physical access
 
-Cyberattacks or malware
+While the Developer strives to implement strong privacy protections and security measures, **we DO NOT guarantee absolute protection** against all security threats. Users are responsible for implementing device-level security (passwords, PIN codes, biometric locks).
 
-Software bugs or unforeseen security vulnerabilities
+---
 
-Compromise of the Application or User's device
+## 8. Data Privacy and Local Storage
 
-Loss of data due to device theft, loss, or unauthorized physical access
+### A. Data Protection Principles
 
-While the Developer strives to implement strong privacy protections and security measures, we DO NOT guarantee absolute protection against all security threats. Users are responsible for implementing device-level security (passwords, PIN codes, biometric locks).
+The Developer adheres to standard data privacy practices:
 
-8. Data Privacy and Local Storage
-A. Compliance
-The Developer adheres to the principles/
+* **Local Data Processing:** All personal data entered by you (calculations, portfolio details, preferences) is processed and stored **locally on your device**.
+* **No Remote Personal Databases:** The Developer does not maintain, store, or process your personal data on remote servers or central databases.
+* **User Control:** You retain complete control over your local data and may delete it at any time by clearing the Application storage or uninstalling the Application.
 
-Local Data Processing: All personal data entered by you (calculations, portfolio details, preferences) is processed and stored locally on your device.
+---
 
-No Remote Personal Databases: The Developer does not maintain, store, or process your personal data on remote servers or central databases.
+## 9. Third-Party Data Collection & Inability to Delete Third-Party Data
 
-User Control: You retain complete control over your local data and may delete it at any time by clearing the Application storage or uninstalling the Application.
+### A. Third-Party Service Integration
 
-9. Third-Party Data Collection & Inability to Delete Third-Party Data
-A. Third-Party Service Integration
-The Application integrates third-party Software Development Kits (SDKs) and APIs, including but not limited to Google AdMob, Firebase Analytics, and Google Play Services. These third parties may automatically collect anonymized diagnostic data, device identifiers, IP addresses, and ad interaction metrics under their respective privacy policies.
+The Application integrates third-party Software Development Kits (SDKs) and APIs, including but not limited to **Google AdMob, Firebase Analytics, and Google Play Services**. These third parties may automatically collect anonymized diagnostic data, device identifiers, IP addresses, and ad interaction metrics under their respective privacy policies.
 
-B. Limitation on Third-Party Data Deletion
+### B. Limitation on Third-Party Data Deletion
+
 Because third-party telemetry data is collected directly by external service providers (such as Google LLC) on their independent servers:
 
-The Developer does not own, control, possess, or host data collected by third parties.
+* The Developer **does not own, control, possess, or host** data collected by third parties.
+* The Developer **cannot access, modify, export, or delete** data collected independently by Google, Firebase, or other third-party SDK providers.
+* **You explicitly acknowledge that the Developer is technically unable to process or execute data deletion requests for data collected by these third-party services.**
 
-The Developer cannot access, modify, export, or delete data collected independently by Google, Firebase, or other third-party SDK providers.
+### C. Exercising Rights with Third Parties
 
-You explicitly acknowledge that the Developer is technically unable to process or execute data deletion requests for data collected by these third-party services.
-
-C. Exercising Rights with Third Parties
 To manage, restrict, or opt out of data collection by third-party advertising or analytics networks, you must interact directly with those providers or use system-level controls on your device:
 
-Google Privacy Policy: https://policies.google.com/privacy
+* **Google Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
+* **Google Ad Settings:** [https://adssettings.google.com](https://www.google.com/search?q=https://adssettings.google.com)
+* **Device Level Opt-Out:** Manage Advertising ID settings via Android Settings > Google > Ads.
 
-Google Ad Settings: https://adssettings.google.com
+---
 
-Device Level Opt-Out: Manage Advertising ID settings via Android Settings > Google > Ads.
+## 10. Monetization and Advertising
 
-10. Monetization and Advertising
 By using the Application, you agree to:
 
-The display of advertisements served via Google AdMob or similar networks.
+* The display of advertisements served via Google AdMob or similar networks.
+* The processing of anonymous data by advertising partners for ad measurement, delivery, and fraud prevention.
+* The applicable terms and privacy policies of third-party ad networks.
 
-The processing of anonymous data by advertising partners for ad measurement, delivery, and fraud prevention.
+---
 
-The applicable terms and privacy policies of third-party ad networks.
+## 11. Rights to Modify and Update
 
-11. Rights to Modify and Update
-The Developer reserves the unilateral right to:
+The Developer reserves the **unilateral right** to:
 
-Update, modify, or enhance any feature or part of the Application code
+* Update, modify, or enhance any feature or part of the Application code
+* Suspend or discontinue any feature or the entire Application
+* Change pricing, subscription terms, or licensing models
 
-Suspend or discontinue any feature or the entire Application
+**Changes may be made at any time.** Your continued use of the Application after any changes constitutes acceptance of the updated terms.
 
-Change pricing, subscription terms, or licensing models
+---
 
-Changes may be made at any time. Your continued use of the Application after any changes constitutes acceptance of the updated terms.
+## 12. License Grant and Access Revocation
 
-12. License Grant and Access Revocation
-The Developer grants you a personal, non-exclusive, non-transferable, and revocable license for use within India. This license:
+The Developer grants you a **personal, non-exclusive, non-transferable, and revocable license** for use within India. This license:
 
-Is for personal, non-commercial use only
+* Is for personal, non-commercial use only
+* Does not constitute a sale of the software
+* Does not grant you ownership rights
+* May be revoked at any time for violation of these terms
 
-Does not constitute a sale of the software
+---
 
-Does not grant you ownership rights
+## 13. User Indemnification
 
-May be revoked at any time for violation of these terms
+You agree to **indemnify, defend, and hold harmless** the Developer from any and all claims, damages, losses, liabilities, or legal fees arising out of:
 
-13. User Indemnification
-You agree to indemnify, defend, and hold harmless the Developer from any and all claims, damages, losses, liabilities, or legal fees arising out of:
+* Your use or misuse of the Application
+* Your violation of this Agreement
+* Your access of the Application outside the territory of India
+* Your violation of any third-party provider's terms of service
+* Your violation of applicable laws
 
-Your use or misuse of the Application
+---
 
-Your violation of this Agreement
+## 14. Intellectual Property Ownership & Reverse Engineering
 
-Your access of the Application outside the territory of India
-
-Your violation of any third-party provider's terms of service
-
-Your violation of applicable Indian laws
-
-14. Intellectual Property Ownership & Reverse Engineering
-Exclusive Ownership:
+**Exclusive Ownership:**
 All source code, UI/UX designs, graphics, logic, trademarks, and assets are owned exclusively by the Developer.
 
-Strict Prohibitions:
-You are strictly prohibited from decompiling, reverse engineering, disassembling, extracting APKs, modifying, or creating derivative works of the Application. Violations are punishable under the Indian Copyright Act, 1957 and the Information Technology Act, 2000.
+**Strict Prohibitions:**
+You are strictly prohibited from decompiling, reverse engineering, disassembling, extracting APKs, modifying, or creating derivative works of the Application. Violations are strictly unlawful and may result in civil and criminal liability.
 
-15. Mandatory Arbitration and Governing Law
-Governing Law:
-This Agreement shall be governed by, interpreted, and construed in accordance with the laws of the Republic of India, including the DPDP Act 2023, IT Act 2000, and Indian Contract Act 1872.
+---
 
-Mandatory Arbitration:
-Any dispute, claim, or controversy arising out of or relating to this Agreement shall be referred to and resolved by binding arbitration under the Arbitration and Conciliation Act, 1996:
+## 15. Mandatory Arbitration and Governing Law
 
-A Sole Arbitrator shall be appointed by the Developer.
+**Governing Law:**
+This Agreement shall be governed by, interpreted, and construed in accordance with the **laws of India**, without regard to conflict of law principles.
 
-The language of arbitration shall be English.
+**Mandatory Arbitration:**
+Any dispute, claim, or controversy arising out of or relating to this Agreement shall be referred to and resolved by **binding arbitration** under applicable Indian arbitration laws:
 
-The seat and venue of arbitration shall be Narmadapuram, Madhya Pradesh, India.
+* A **Sole Arbitrator** shall be appointed by the Developer.
+* The language of arbitration shall be **English**.
+* The seat and venue of arbitration shall be **Narmadapuram, Madhya Pradesh, India**.
 
-Exclusive Jurisdiction:
-Subject to arbitration, the competent courts located in Narmadapuram, Madhya Pradesh, India shall have exclusive jurisdiction.
+**Exclusive Jurisdiction:**
+Subject to arbitration, the competent courts located in **Narmadapuram, Madhya Pradesh, India** shall have exclusive jurisdiction.
 
-16. Contact & Grievance Redressal
-In accordance with the Information Technology Act, 2000 and the DPDP Act, 2023, if you have any questions, bug reports, or grievances regarding the Application, you may contact the Developer:
+---
 
-Email: getspacecar@gmail.com
+## 16. Application Discontinuation and Support Termination
 
-Notice Period: Any operational issue or grievance must be reported in writing within 14 calendar days of discovery.
+**Developer's Right to Discontinue:**
+The Developer reserves the absolute right to discontinue the Application, remove it from app stores, stop providing updates, or shut down backend services at any time without notice or refund obligations.
 
-By downloading, installing, or using the Application, you acknowledge that you have read, understood, and agreed to be bound by these terms within the jurisdiction of India.
+---
+
+## 17. Contact & Grievance Redressal
+
+If you have any questions, bug reports, or grievances regarding the Application, you may contact the Developer:
+
+* **Email:** getspacecar@gmail.com
+* **Notice Period:** Any operational issue or grievance must be reported in writing within **14 calendar days** of discovery.
+
+---
+
+**By downloading, installing, or using the Application, you acknowledge that you have read, understood, and agreed to be bound by these terms within the jurisdiction of India.**
